@@ -53,7 +53,7 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>©CIRUS LAB</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Cirus Auto Filter Bot V2</b>
