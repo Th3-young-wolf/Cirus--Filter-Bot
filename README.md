@@ -77,7 +77,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 * MUSIC_SEARCH  - Should bot search for music files ( Give 'yes' or 'no' )
 
 ## Credits
-
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
-
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+Cirus Lab
+Adithya Krishnan
+Bharath Krishna
+Raman Unni
