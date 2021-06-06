@@ -56,9 +56,9 @@ Bot will automatically search for your files and give links to that!
 <b>© @TroJanzHEX</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Cirus Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @fal3n_4ngel
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
