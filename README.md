@@ -8,7 +8,6 @@
 </p>
 
 #### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -75,6 +74,27 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 * VID_SEARCH  - Should bot search for video files ( Give 'yes' or 'no' )
 
 * MUSIC_SEARCH  - Should bot search for music files ( Give 'yes' or 'no' )
+
+## Cirus Lab
+
+```markdown   
+
+# Python Programming
+## Android Development
+### AI and Web Development
+
+- Non profit community
+- Formed By Bharath Krishna
+
+#Senior Developers
+1. Adithya Krishnan. fal3n_4ngel Github/ Insta
+2. Bharath Krisha. Th3_nuclear_rebel Insta
+
+```
+
+For more details see [Fal3n-4ngel](https://github.com/Th3-young-wolf/)
+
+
 
 ## Credits
 Cirus Lab
