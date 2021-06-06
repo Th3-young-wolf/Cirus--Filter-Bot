@@ -92,12 +92,4 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ```
 
-For more details see [Fal3n-4ngel](https://github.com/Th3-young-wolf/)
-
-
-
-## Credits
-Cirus Lab
-Adithya Krishnan
-Bharath Krishna
-Raman Unni
+For more details see [Fal3n-4ngel](https://github.com/fal3n-4ngel/)
