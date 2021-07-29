@@ -1,6 +1,8 @@
 # FETCHER.  
 ## Auto Filter Bot by ©Cirus Lab
 
+
+## No longer Maintained. NB: Still works!
 <p align="center">
   <a href="https://www.python.org">
  
@@ -78,7 +80,7 @@ or
 
 #Senior Developers
 1. Adithya Krishnan. fal3n_4ngel Github/ Insta
-2. Bharath Krisha. Th3_nuclear_rebel Insta
+2. Bharath Krishna. Th3_nuclear_rebel Insta
 
 ```
 
